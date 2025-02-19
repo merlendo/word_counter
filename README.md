@@ -8,7 +8,7 @@ L’objectif est de comparer les temps d’exécution et les gains de performanc
 Les données utilisées pour ce benchmark ont été scrapées depuis le projet
 Gutenberg, une bibliothèque en ligne de livres numériques. Le téléchargement
 des données a pris environ 15 minutes pour générer des fichiers de différentes
-tailles (de 1 Mo `a 512 Mo).  
+tailles (de 1 Mo à 512 Mo).  
 Les implémentations sont :
 
 - **Python** : Une implémentation standard en Python.
